@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shoe-medipine/static/css/main.c8cc5b3d.css",
+    "main.js": "/shoe-medipine/static/js/main.f83fa1bc.js",
+    "static/js/787.522eb705.chunk.js": "/shoe-medipine/static/js/787.522eb705.chunk.js",
+    "index.html": "/shoe-medipine/index.html",
+    "main.c8cc5b3d.css.map": "/shoe-medipine/static/css/main.c8cc5b3d.css.map",
+    "main.f83fa1bc.js.map": "/shoe-medipine/static/js/main.f83fa1bc.js.map",
+    "787.522eb705.chunk.js.map": "/shoe-medipine/static/js/787.522eb705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8cc5b3d.css",
+    "static/js/main.f83fa1bc.js"
+  ]
+}
